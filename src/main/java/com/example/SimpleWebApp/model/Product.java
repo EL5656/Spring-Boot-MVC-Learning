@@ -1,4 +1,4 @@
-package com.example.WebApp.model;
+package com.example.SimpleWebApp.model;
 
 import org.springframework.stereotype.Component;
 
